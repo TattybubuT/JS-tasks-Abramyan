@@ -1,1 +1,2 @@
-# JS-tasks-Abramyan
+# JS-tasks-Решебник Абрамяна М. Э.
+https://uteacher.ru/reshebnik-abramyan/begin/
